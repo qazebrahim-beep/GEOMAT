@@ -1,2 +1,0 @@
-# GEOMAT
-GEOMAT 3D
